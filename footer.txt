@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Some text for footer
 Changes from master
+=======
+Some text for footer
+>>>>>>> 5c4c228 (add footer)
